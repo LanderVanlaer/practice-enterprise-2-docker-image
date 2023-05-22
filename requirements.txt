@@ -1,0 +1,9 @@
+keras==2.12.0
+python-dotenv==1.0.0
+joblib~=1.2.0
+#mariadb~=1.1.6
+mariadb==1.0.11
+pandas~=2.0.1
+tensorflow
+scikit-learn==1.2.1
+joblib==1.2.0
